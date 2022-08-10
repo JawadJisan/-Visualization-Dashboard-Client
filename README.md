@@ -34,5 +34,3 @@ https://github.com/JawadJisan/Visualization-Dashboard-Server
 <!--  -->
 ![image](https://i.ibb.co/VSG0GnV/Untitled-1.jpg)
 
-
-![image](https://i.ibb.co/MPN5hr4/screencapture-visualization-dashboard-netlify-app-2022-08-10-19-15-13.png)
